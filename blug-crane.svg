@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="52.872295mm"
-   height="13.900037mm"
-   viewBox="0 0 187.34278 49.252099"
+   width="25.329445mm"
+   height="13.546723mm"
+   viewBox="0 0 89.750002 48.000201"
    id="svg4737"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
      inkscape:cx="102.5615"
-     inkscape:cy="36.000561"
+     inkscape:cy="36.000862"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,40 +59,23 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(558.35247,-1293.1793)">
+     transform="translate(558.35247,-1294.4315)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.43681335px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:-0.99999988px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-449.99594"
-       y="1341.8835"
-       id="text4780"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4782"
-         x="-449.99594"
-         y="1341.8835"
-         style="letter-spacing:-0.99999988px">BLUG</tspan></text>
-    <path
-       style="fill:#ffe521;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -451.62442,1342.3448 0,-41.9628 70.60433,-0.017 0,17.3038 10.0104,-10e-5 0,-24.4894 -91.38946,0 -0.007,49.1655 z"
-       id="path4784"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccc" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.43681335px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:-0.99999988px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-545.94928"
-       y="1341.9701"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.60366058px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:-1.00324368px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-544.16248"
+       y="1346.3772"
        id="text4780-0"
-       sodipodi:linespacing="125%"><tspan
+       sodipodi:linespacing="125%"
+       transform="scale(1.0032396,0.99677088)"><tspan
          sodipodi:role="line"
          id="tspan4782-7"
-         x="-545.94928"
-         y="1341.9701"
-         style="letter-spacing:-0.99999988px">BLUG</tspan></text>
+         x="-544.16248"
+         y="1346.3772"
+         style="letter-spacing:-1.00324368px">BLUG</tspan></text>
     <path
        style="fill:#ffe521;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -547.57774,1342.4314 0,-41.9628 70.60433,-0.017 0,17.3542 10.0104,-1e-4 0,-24.5398 -91.38946,0 5.04376,49.1655 z"
+       d="m -547.35247,1342.4314 0,-40.952 71,-0.017 0,17.3542 7.75,0 0,-24.3851 -89.75,0 4.48985,48.0002 z"
        id="path4784-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
