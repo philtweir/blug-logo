@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="25.329445mm"
+   width="25.646944mm"
    height="13.546723mm"
-   viewBox="0 0 89.750002 48.000201"
+   viewBox="0 0 90.874999 48.000201"
    id="svg4737"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -30,7 +30,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="3.959798"
      inkscape:cx="102.5615"
-     inkscape:cy="36.000862"
+     inkscape:cy="36.000861"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -75,7 +75,7 @@
          style="letter-spacing:-1.00324368px">BLUG</tspan></text>
     <path
        style="fill:#ffe521;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -547.35247,1342.4314 0,-40.952 71,-0.017 0,17.3542 7.75,0 0,-24.3851 -89.75,0 4.48985,48.0002 z"
+       d="m -547.35247,1342.4314 0,-40.952 71,-0.017 0,17.3542 8.875,0 0,-24.3851 -90.875,0 4.48985,48.0002 z"
        id="path4784-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
