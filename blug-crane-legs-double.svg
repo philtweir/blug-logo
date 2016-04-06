@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg4737"
+   viewBox="0 0 94.159631 52.630753"
+   height="14.853568mm"
+   width="26.57394mm"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="blug-crane-legs-double.svg"
+   inkscape:export-filename="/home/phil/Work/Flax &amp; Teal/Sync/BLUG/blug-crane-legs.png"
+   inkscape:export-xdpi="300.63052"
+   inkscape:export-ydpi="300.63052">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="704"
+     id="namedview4151"
+     showgrid="false"
+     inkscape:zoom="3.6533701"
+     inkscape:cx="3.6423193"
+     inkscape:cy="24.1986"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4737"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs4739" />
+  <metadata
+     id="metadata4742">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:connector-curvature="0"
+     style="fill:#ca9a18;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 15.560448,48.564604 0,-41.4337875 71.835295,-0.0172 0,41.6521265 5.102248,0 L 94.159632,0 4.4310362,0 8.973708,48.564908 Z"
+     id="path4784-9-8" />
+  <text
+     sodipodi:linespacing="125%"
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.60366058px;line-height:125%;font-family:'League Gothic';-inkscape-font-specification:'League Gothic';letter-spacing:-1.00324368px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="14.380539"
+     y="52.198692"
+     id="text4780-0"
+     transform="scale(1.0032396,0.99677087)"><tspan
+       id="tspan4782-7"
+       x="14.380539"
+       y="52.198692"
+       style="letter-spacing:-1.00324368px">BLUG</tspan></text>
+  <path
+     sodipodi:nodetypes="ccccccccc"
+     inkscape:connector-curvature="0"
+     style="fill:#ffe521;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 11.129412,52.429614 0,-41.433788 71.835294,-0.0172 0,41.652127 5.102248,0 L 89.728596,3.8650091 0,3.8650091 4.5426718,52.429918 Z"
+     id="path4784-9" />
+</svg>
